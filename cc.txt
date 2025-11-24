@@ -1,0 +1,67 @@
+Tao mot cai may tinh nhap thong tin tu nguoi dung
+co tong cong 15 nut trong do
+khi nguoi dung nhap so 
+so o truoc toan tu se duoc xem nhu tham so 1
+so o sau duoc xem nhu tham so 2
+and so on
+den khi nguoi dung bam bang no se tra ve ket qua
+
+
+No se co giao dien may tinh html co bang
+chuc nang nhu mot may tinh
+nhan thong tin tu nguoi dung qua cac nut
+dua vao dau vao se cho ra ket qua phep tinh
+
+KHOI TAO GIAO DIEN
+ se co man hinh de hien thi nhung gi da nhap
+ trong giao dien co 16 nut gom cac so va cac phep tinh 
+ dau bang va nut clear de xoa
+ TAO CHUC NANG 
+khi bam nut tren cac nut no se hien thi len man hinh
+
+lay cac tham so de thuc hien cac phep tinh
+so duoc nhap vao se duoc truyen vao mot mang
+dung mang do de doi no thanh mot so, do la tham so 1
+sau do khi bam toan tu 
+va nhap so no se la tham so 2
+va bam nut bang no se tra ket qua dua tren toan tu 
+
+
+tra ve ket qua tren man hinh
+co nut clear de xoa tat ca input out put
+
+
+
+arr1 = document.querySelector(`.${arr1}`)
+    .addEventListener('click',() => {
+    let phanTu = document.createElement('p')
+    phanTu.textContent = `${but.textContent}`
+    mayTinh.appendChild(phanTu)
+    let doiKieu = parseInt(phanTu.textContent)
+    thamso1.push(doiKieu)
+    })
+
+
+
+    1 nhap tu nut
+    2 bam nut chon toan tu
+    3 day toan bo du lieu vao mang
+    3.1 dung nut toan tu de thuc hien loc va xoa 
+    cac gia tri da duoc loc ra khoi mang
+    4 loc so va toan tu ra day vao bien khac
+    5 dung cac bien chua du lieu lam tham so cho
+    ham operate
+
+
+so duoc va toan tu duoc day vao bien khac xoa toan
+bo trong mang goc khi nhap tiep so duoc day tiep
+vao bien khac
+
+neu so o sau mot toan tu no duoc xem la tham so2
+
+
+
+Lam sao de phan tach cac tham so
+
+khi da co ket qua luu no vao cho khac
+xoa tat ca gia tri lien quan
